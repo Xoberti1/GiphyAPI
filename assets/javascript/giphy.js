@@ -97,7 +97,7 @@ var cars = ["Porsche", "Ferrari", "Tesla", "Range Rover"];
     // This line grabs the input from the textbox
     var car = $("#car-input").val().trim();
 
-    // Adding movie from the textbox to our array
+    // Adding car from the textbox to the array
     cars.push(car);
 
     // Calling renderButtons which handles the processing of our cars array
