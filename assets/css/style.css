@@ -1,0 +1,23 @@
+#car-form {
+	padding-bottom: 20px;
+}
+
+#car-input {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#cars-view {
+	border-top: 1px black solid;
+}
+
+p{
+	float: left;
+}
+
+button {
+	background-color: blue;
+	color: white;
+	margin-left: 2px;
+	margin-right: 2px;
+}
